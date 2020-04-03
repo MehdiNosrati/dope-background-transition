@@ -1,0 +1,2 @@
+rootProject.name='dope-background-transition'
+include ':app'
